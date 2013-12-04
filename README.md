@@ -1,4 +1,0 @@
-WeB
-===
-
-Proyecto final
